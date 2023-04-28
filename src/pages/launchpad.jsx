@@ -235,13 +235,7 @@ const Launchpad = ({ account, setAccount }) => {
           </>
         ) : (
           <>
-            <div className="font-bold text-3xl">
-              첫 번째 민트 사진은 불러오지 못합니다 흑흑 ㅠㅠ 두 번 하시면 두
-              번째 사진은 나옵니다!
-            </div>
-            <div className="font-bold text-3xl">
-              Collection 보기 눌러서 오픈씨로 이동가능합니다.
-            </div>
+            <div className="font-bold ">민팅을 진행해 주세요.</div>
           </>
         )}
       </div>
